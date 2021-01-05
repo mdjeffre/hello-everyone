@@ -1,1 +1,1 @@
-# hello-everyone
+# hello-everyone - learning to use github
